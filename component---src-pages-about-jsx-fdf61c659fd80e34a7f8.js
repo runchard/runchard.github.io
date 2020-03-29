@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[55],{bT9l:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),l=a.n(n),c=a("+7A0"),r=a("L12J");t.default=function(){return l.a.createElement(r.a,{id:"mdx"},l.a.createElement("h1",null,"Contact Me"),l.a.createElement(c.GatsbySeo,{title:"Contact Richard"}),l.a.createElement("hr",null),l.a.createElement("ul",null,l.a.createElement("li",null,l.a.createElement("a",{href:"https://github.com/runchard"},"github"))))}}}]);
+//# sourceMappingURL=component---src-pages-about-jsx-fdf61c659fd80e34a7f8.js.map
