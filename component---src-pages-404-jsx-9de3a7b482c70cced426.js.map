@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/404.jsx"],"names":[],"mappings":"2FAAA,6CAGe,4BACb,YAAC,IAAD","file":"component---src-pages-404-jsx-9de3a7b482c70cced426.js","sourcesContent":["import React from \"react\";\nimport Layout from \"../components/layout\";\n\nexport default () => (\n  <Layout>\n    404...\n  </Layout>\n)\n"],"sourceRoot":""}
